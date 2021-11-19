@@ -15,5 +15,4 @@ This project was developed using the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- Components
 - Css
