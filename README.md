@@ -8,9 +8,6 @@ Uma plataforma para professores e alunos
     <img alt="Letmeask" title="Letmeask" src="https://github.com/ferferq/NLW2Web/blob/main/layout.png?raw=true" />
 </h1>
 
-This project was developed using the following technologies:
-
-
 ## 🧪 Tecnologias
 
 - [React](https://reactjs.org)
